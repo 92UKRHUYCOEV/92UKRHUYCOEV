@@ -1,4 +1,6 @@
+<p align="center">
 <img width="1774" height="887" alt="Sallie Git Hub1" src="https://github.com/user-attachments/assets/324ff98b-bd32-467b-8105-6f6a8369a5a4" />
+</p>
 
 # 👋 Hi, I'm Sallie Chait
 ## Cloud Security Engineer | Threat Hunting | Azure Security | Microsoft Sentinel | AI GRC
