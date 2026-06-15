@@ -66,7 +66,7 @@ Leveraged Microsoft Sentinel analytics and KQL detections to investigate identit
 - Data Center Engineeering built Cloud Infrastructure & Applications
 
 
-📚 Current Focus
+## 📚 Current Focus
 
 Advanced Threat Hunting
 Cloud Security Architecture
