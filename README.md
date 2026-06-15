@@ -63,7 +63,7 @@ Leveraged Microsoft Sentinel analytics and KQL detections to investigate identit
 - Security Governance
 - AI Governance, Risk & Compliance (AI GRC)
 - STIG Compliance
-- Data Center Engineeering building C;oud Hardware
+- Data Center Engineeering built Cloud Infrastructure & Applications
 
 
 📚 Current Focus
