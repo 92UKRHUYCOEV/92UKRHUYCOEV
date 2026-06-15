@@ -68,11 +68,11 @@ Leveraged Microsoft Sentinel analytics and KQL detections to investigate identit
 
 ## 📚 Current Focus
 
-Advanced Threat Hunting
-Cloud Security Architecture
-AI Security & Governance
-Detection Engineering
-Security Automation
+- Advanced Threat Hunting
+- Cloud Security Architecture
+- AI Security & Governance
+- Detection Engineering
+- Security Automation
 
 ## 📜 Certifications
 
