@@ -47,6 +47,14 @@ Leveraged Microsoft Sentinel analytics and KQL detections to investigate identit
 
 ## 🔧 Technical Skills
 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Defender XDR](https://img.shields.io/badge/Microsoft_Defender_XDR-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-Threat_Hunting-FF6F00?style=for-the-badge)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-Detection_Engineering-008272?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI_GRC](https://img.shields.io/badge/AI-Governance,_Risk_%26_Compliance-0A66C2?style=for-the-badge)
+
 - Security Operations
 - Threat Hunting
 - Incident Response
