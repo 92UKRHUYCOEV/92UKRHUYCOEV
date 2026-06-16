@@ -70,13 +70,16 @@ Leveraged Microsoft Sentinel analytics and KQL detections to investigate identit
 - Data Center Engineeering built Cloud Infrastructure & Applications
 
 
-## 📚 Current Focus
+## 📚 Focus Area
 
-- Advanced Threat Hunting
-- Cloud Security Architecture
-- AI Security & Governance
-- Detection Engineering
-- Security Automation
+- SOC Operations — alert triage, L2/L3 investigation, detection engineering
+- Threat Hunting — hypothesis-driven hunts, lateral movement analysis
+- Detection Engineering - designing, building, and maintaining logic to identify malicious activity in real-time
+- Cloud Security Architecture - structural blueprint that integrates hardware, software, and operational policies to protect cloud ecosystems
+- Incident Response — containment, isolation decisions, IR reporting
+- Vulnerability Management — prioritization and remediation workflows
+- AI Security & Governance — guardrails, deterministic decision logic, agentic AI defense
+- Security Automation - the use of software-defined workflows to detect, investigate, and mitigate cyberthreats
 
 ## 📜 Certifications
 
