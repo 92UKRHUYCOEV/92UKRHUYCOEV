@@ -74,6 +74,7 @@ Leveraged Microsoft Sentinel analytics and KQL detections to investigate identit
 
 - SOC Operations — alert triage, L2/L3 investigation, detection engineering
 - Threat Hunting — hypothesis-driven hunts, lateral movement analysis
+- Zero Trust - architectures and guidelines designed to protect hybrid, multi-cloud environments
 - Detection Engineering - designing, building, and maintaining logic to identify malicious activity in real-time
 - Cloud Security Architecture - structural blueprint that integrates hardware, software, and operational policies to protect cloud ecosystems
 - Incident Response — containment, isolation decisions, IR reporting
