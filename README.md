@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Sallie Chait
 ## Cloud Security Engineer | Threat Hunting | Azure Security | Microsoft Sentinel | AI GRC
 
-Welcome to my cybersecurity portfolio. This GitHub showcases hands-on security investigations, threat hunting exercises, cloud security projects, incident response case studies, and detection engineering initiatives developed through practical learning and cyber range engagements.
+Welcome to my cybersecurity portfolio. I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 ## 🛡️ Areas of Expertise
 
