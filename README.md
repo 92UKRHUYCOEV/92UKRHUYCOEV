@@ -15,6 +15,7 @@ Welcome to my cybersecurity portfolio. I'm passionate about cybersecurity and lo
 - Microsoft Defender XDR
 - Azure Security
 - Incident Response
+- IAM Framework
 - Vulnerability Management
 - AI DevSecOps
 - AI Governance, Risk & Compliance (AI GRC)
@@ -36,6 +37,10 @@ Performed ransomware incident analysis, malware investigation, timeline reconstr
 ### STIG Remediation
 
 Implemented security hardening and compliance remediation activities aligned with DISA STIG requirements.
+
+### IAM Framework
+
+An effective IAM program establishes controls across the complete identity lifecycle—from identity creation and authentication through authorization, governance, monitoring, and eventual de-provisioning.
 
 ### Vulnerability Management Program
 
