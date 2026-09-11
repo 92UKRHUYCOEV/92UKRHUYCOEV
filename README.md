@@ -38,8 +38,7 @@ Performed ransomware incident analysis, malware investigation, timeline reconstr
 
 Implemented security hardening and compliance remediation activities aligned with DISA STIG requirements.
 
-### IAM Framework
-
+### IAM Framework{[https://github.com/92UKRHUYCOEV/identity-access-management]
 An effective IAM program establishes controls across the complete identity lifecycle—from identity creation and authentication through authorization, governance, monitoring, and eventual de-provisioning.
 
 ### Vulnerability Management Program
